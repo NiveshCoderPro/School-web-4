@@ -1,0 +1,55 @@
+marquee {
+    background-color: blue;
+    color:aqua;
+}
+  .navbar-nav li {
+    color:gray;
+    padding-right:20px;
+    padding-top:15px;
+}
+ .navbar-nav li:hover {
+    color:white;
+}
+h1 {
+    font-family: 'Product Sans';
+}
+body {
+    text-align: center;
+    background:linear-gradient(#0055ff 100%, #00ddff 0%);
+}
+.line {
+     height: 7px;
+    background-color: #000;
+    width: 300px;
+    margin: 8px auto;
+}
+p {
+    font-family: 'Product Sans'
+}
+.collapse navbar-collapse {
+    background-color:aqua;
+}
+.ab {
+    list-style:none;
+    float:left;
+}
+.environment_li {
+    margin-top:13px;
+}
+.environment_li h4 {
+     border-bottom:1px solid white;
+    padding:8px;
+}
+.environment_li img {
+    border-radius:50%;
+}
+.modal-content {
+    margin-top:100px;
+}
+.img_modal {
+    display:inline-block;
+}
+.p_modal {
+    margin-top: 10px;
+}    
+    
